@@ -1,2 +1,2 @@
 # ML
-Lab 1
+Labs
