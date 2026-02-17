@@ -1,2 +1,2 @@
-# hello-word
+# ML
 Lab 1
